@@ -10,6 +10,8 @@ public class MysqljpaApplication {
 		SpringApplication.run(MysqljpaApplication.class, args);
 		
 		System.out.println("MySQLJPAGeo Demo...!");
+		
+		
 	}
 
 }
